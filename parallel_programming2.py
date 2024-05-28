@@ -11,7 +11,7 @@ def calculate_factorials(num):
     return results
 
 if __name__ == '__main__':
-    numbers = [50000, 50001, 50002, 50003, 50000, 50001, 50002, 50003]
+    numbers = [50000, 50001, 50002, 50003, 50000, 50001, 50002, 50003, 50000, 50001, 50002, 50003, 50000, 50001, 50002, 50003]
     start_time = time.time()
     results = calculate_factorials(numbers)
     end_time = time.time()

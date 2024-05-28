@@ -10,7 +10,7 @@ def calculate_factorial(num):
     return math.factorial(num)
 
 if __name__ == '__main__':
-    numbers = [50000, 50001, 50002, 50003,50000, 50001, 50002, 50003]
+    numbers = [50000, 50001, 50002, 50003,50000, 50001, 50002, 50003, 50000, 50001, 50002, 50003, 50000, 50001, 50002, 50003]
     start_time = time.time()
     with multiprocessing.Pool(processes=4) as pool:
         results = pool.map(calculate_factorial, numbers)
