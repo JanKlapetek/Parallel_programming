@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbce29cb-ce46-4f7b-a42a-69b32db81876" name="Changes" comment="Task1 max and min numbers for example in paralel and threads">
-      <change afterPath="$PROJECT_DIR$/task2_p.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_th.py" afterDir="false" />
+    <list default="true" id="cbce29cb-ce46-4f7b-a42a-69b32db81876" name="Changes" comment="Task2 sum for example in paralel or threads">
+      <change afterPath="$PROJECT_DIR$/task3_th.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4_th.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,9 @@
     "Python.task1_p.executor": "Run",
     "Python.task1_th.executor": "Run",
     "Python.task2_p.executor": "Run",
+    "Python.task2_th.executor": "Run",
+    "Python.task3_th.executor": "Run",
+    "Python.task4_th.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -166,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717251460233</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Task2 sum for example in paralel or threads">
+      <option name="closed" value="true" />
+      <created>1717251574168</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717251574168</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +189,7 @@
     <MESSAGE value="Piškvorky klient a server" />
     <MESSAGE value="Soubory klient a server" />
     <MESSAGE value="Task1 max and min numbers for example in paralel and threads" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1 max and min numbers for example in paralel and threads" />
+    <MESSAGE value="Task2 sum for example in paralel or threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2 sum for example in paralel or threads" />
   </component>
 </project>
