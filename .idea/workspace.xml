@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbce29cb-ce46-4f7b-a42a-69b32db81876" name="Changes" comment="Network sample test">
-      <change afterPath="$PROJECT_DIR$/paralel_example.py" afterDir="false" />
-    </list>
+    <list default="true" id="cbce29cb-ce46-4f7b-a42a-69b32db81876" name="Changes" comment="Soubory klient a server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,10 @@
     "Python.paralel_example.executor": "Run",
     "Python.parallel_programming.executor": "Run",
     "Python.parallel_programming2.executor": "Run",
+    "Python.piskvorky_klient.executor": "Run",
+    "Python.piskvorky_server.executor": "Run",
+    "Python.soubory_klient.executor": "Run",
+    "Python.soubory_server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -134,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717250920198</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Piškvorky klient a server">
+      <option name="closed" value="true" />
+      <created>1717251037513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717251037513</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Soubory klient a server">
+      <option name="closed" value="true" />
+      <created>1717251165683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717251165683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +161,8 @@
     <MESSAGE value="chat klient and server" />
     <MESSAGE value="Network sample klient and server" />
     <MESSAGE value="Network sample test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Network sample test" />
+    <MESSAGE value="Piškvorky klient a server" />
+    <MESSAGE value="Soubory klient a server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soubory klient a server" />
   </component>
 </project>
