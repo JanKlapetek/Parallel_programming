@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbce29cb-ce46-4f7b-a42a-69b32db81876" name="Changes" comment="chat klient and server" />
+    <list default="true" id="cbce29cb-ce46-4f7b-a42a-69b32db81876" name="Changes" comment="Network sample test">
+      <change afterPath="$PROJECT_DIR$/paralel_example.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,15 +38,21 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2h6a2mzvR7f7WfmRIwuy97h51Sg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in network_sample_test.py.executor": "Run",
     "Python.chat_klient.executor": "Run",
     "Python.chat_server.executor": "Run",
+    "Python.network_sample_klient.executor": "Run",
+    "Python.network_sample_server.executor": "Run",
+    "Python.paralel_example.executor": "Run",
     "Python.parallel_programming.executor": "Run",
     "Python.parallel_programming2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -102,13 +110,39 @@
       <option name="project" value="LOCAL" />
       <updated>1717250521436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Network sample klient and server">
+      <option name="closed" value="true" />
+      <created>1717250766679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717250766679</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Network sample test">
+      <option name="closed" value="true" />
+      <created>1717250840352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717250840352</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Network sample test">
+      <option name="closed" value="true" />
+      <created>1717250920198</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717250920198</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="parallel_programming.py" />
     <MESSAGE value="parallel_programming.py and parallel_programming2.py" />
     <MESSAGE value="chat klient and server" />
-    <option name="LAST_COMMIT_MESSAGE" value="chat klient and server" />
+    <MESSAGE value="Network sample klient and server" />
+    <MESSAGE value="Network sample test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Network sample test" />
   </component>
 </project>
